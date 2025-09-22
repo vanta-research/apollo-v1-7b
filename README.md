@@ -1,6 +1,6 @@
 ---
 license: apache-2.0
-base_model: mistralai/Mistral-7B-Instruct-v0.2
+base_model: mistralai/Mistral-7B-Instruct-v0.3
 library_name: peft
 tags:
 - reasoning
@@ -22,7 +22,7 @@ pipeline_tag: text-generation
 
 Apollo V1 7B is a specialized language model designed for advanced reasoning tasks, including logical reasoning, mathematical problem-solving, and legal analysis. Built on Mistral 7B-Instruct-v0.2 using LoRA fine-tuning, this model represents the first public release in the Apollo model series from VANTA Research.
 
-## 🚀 **Get the Complete Model**
+## **Get the Complete Model**
 
 **Download from HuggingFace**: The complete model with weights is available at:
 **[https://huggingface.co/vanta-research/apollo-v1-7b](https://huggingface.co/vanta-research/apollo-v1-7b)**
@@ -95,10 +95,10 @@ print(response)
 ## Repository Contents
 
 This GitHub repository contains:
-- 📄 **Documentation**: Comprehensive model card, usage guides, and technical specifications
-- ⚙️ **Configuration Files**: Model configuration and generation parameters
-- 📋 **Merge Guide**: Instructions for creating merged model weights
-- 🔒 **License**: Apache 2.0 license for maximum adoption
+- **Documentation**: Comprehensive model card, usage guides, and technical specifications
+- **Configuration Files**: Model configuration and generation parameters
+- **Merge Guide**: Instructions for creating merged model weights
+- **License**: Apache 2.0 license for maximum adoption
 
 **For the complete model weights**: Visit **[HuggingFace Hub](https://huggingface.co/vanta-research/apollo-v1-7b)**
 
@@ -116,9 +116,9 @@ This model is released under the Apache 2.0 License. See [LICENSE](./LICENSE) fo
 
 ## Links
 
-- 🤗 **HuggingFace Model**: [vanta-research/apollo-v1-7b](https://huggingface.co/vanta-research/apollo-v1-7b)
-- 🔬 **VRRE Framework**: [VANTA Research Reasoning Evaluation](https://github.com/vanta-research/reasoning-evaluation)
-- 🏢 **VANTA Research**: [vanta-research.org](https://vanta-research.org)
+- **HuggingFace Model**: [vanta-research/apollo-v1-7b](https://huggingface.co/vanta-research/apollo-v1-7b)
+- **VRRE Framework**: [VANTA Research Reasoning Evaluation](https://github.com/vanta-research/reasoning-evaluation)
+- **VANTA Research**: [alignmentstack.xyz](https://alignmentstack.xyz)
 
 ---
 
