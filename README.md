@@ -20,7 +20,7 @@ pipeline_tag: text-generation
 
 **Advanced Reasoning Language Model**
 
-Apollo V1 7B is a specialized language model designed for advanced reasoning tasks, including logical reasoning, mathematical problem-solving, and legal analysis. Built on Mistral 7B-Instruct-v0.2 using LoRA fine-tuning, this model represents the first public release in the Apollo model series from VANTA Research.
+Apollo V1 7B is a specialized language model designed for advanced reasoning tasks, including logical reasoning, mathematical problem-solving, and legal analysis. Built on Mistral 7B-Instruct-v0.3 using LoRA fine-tuning, this model represents the first public release in the Apollo model series from VANTA Research.
 
 ## **Get the Complete Model**
 
