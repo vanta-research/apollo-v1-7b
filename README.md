@@ -122,8 +122,6 @@ This model is released under the Apache 2.0 License. See [LICENSE](./LICENSE) fo
 
 ---
 
-**Apollo V1 7B - Advancing the frontier of reasoning in language models**
-
 ## License
 
 This model is released under the Apache 2.0 License. See [LICENSE](./LICENSE) for details.
