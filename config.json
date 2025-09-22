@@ -1,0 +1,33 @@
+{
+  "_name_or_path": "vanta-research/apollo-v1-7b",
+  "architectures": [
+    "MistralForCausalLM"
+  ],
+  "attention_dropout": 0.0,
+  "bos_token_id": 1,
+  "eos_token_id": 2,
+  "hidden_act": "silu",
+  "hidden_size": 4096,
+  "initializer_range": 0.02,
+  "intermediate_size": 14336,
+  "max_position_embeddings": 32768,
+  "model_type": "mistral",
+  "num_attention_heads": 32,
+  "num_hidden_layers": 32,
+  "num_key_value_heads": 8,
+  "rms_norm_eps": 1e-05,
+  "rope_theta": 1000000.0,
+  "sliding_window": 4096,
+  "tie_word_embeddings": false,
+  "torch_dtype": "float16",
+  "transformers_version": "4.44.2",
+  "use_cache": true,
+  "vocab_size": 32000,
+  "model_name": "Apollo V1 7B",
+  "version": "1.0.0",
+  "created_by": "VANTA Research",
+  "base_model": "mistralai/Mistral-7B-Instruct-v0.3",
+  "license": "MIT",
+  "model_description": "Advanced reasoning AI model specialized in logical reasoning, mathematical problem-solving, and legal analysis.",
+  "release_date": "2025-09-21T11:35:57.508765"
+}
